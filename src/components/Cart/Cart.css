@@ -1,0 +1,8 @@
+.cart-top {
+  border-bottom: 1px solid lightgray;
+}
+.cart-top h2 {
+  text-align: center;
+  font-size: 40px;
+  font-family: Impact, Charcoal, sans-serif;
+}

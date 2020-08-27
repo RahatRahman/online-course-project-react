@@ -1,0 +1,19 @@
+.courses {
+  display: flex;
+  border-bottom: 1px solid lightgray;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.courses-img img {
+  height: 200px;
+  width: 300px;
+  border-radius: 5px;
+}
+.courses-img {
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
